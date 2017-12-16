@@ -1,0 +1,10 @@
+*.tlog
+*.log
+*.obj
+webDic/webDic/Release/vc141.pdb
+webDic/webDic/Release/webDic.lastbuildstate
+webDic/webDic/Debug/vc141.idb
+webDic/Debug/lnk{15BD6CD5-EDE4-41A0-9B6F-05186EAFFB4C}.tmp
+webDic/.vs/webDic/v15/ipch/AutoPCH/35e1e932f4cdff56/CRAWLER.ipch
+webDic/.vs/
+webDic/Debug/
